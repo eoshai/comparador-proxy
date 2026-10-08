@@ -38,8 +38,8 @@ Ele existe porque o navegador não consegue consultar as APIs dos mercados diret
 **Pré-requisito:** Node.js 18 ou superior.
 
 ```sh
-git clone <url-deste-repositorio>
-cd <nome-do-repositorio>
+git clone https://github.com/eoshai/comparador-proxy.git
+cd comparador-proxy
 npm start
 ```
 
