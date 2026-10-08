@@ -1,0 +1,13 @@
+{
+  "name": "carrinholeve-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Proxy do CarrinhoLeve para consultar Atacadão e Mateus Mais",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
